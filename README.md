@@ -34,6 +34,8 @@ games
 
 *SyncCollection Enhanced* started as a fork from [malfunct/SyncCollection](https://github.com/malfunct/SyncCollection). The author refused a pull request with visual enhancements because it goes against his original purpose for the tool, so I just made this standalone repository.
 
+Initially, I have no intention of adding additional features on my own, but you can create a pull request to help include additional improvements. If the original author updates his code, I will likely include those changes.
+
 ## 📋 Features
 
 All what the original program has plus:
