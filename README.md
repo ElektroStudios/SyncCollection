@@ -26,15 +26,13 @@ games
 
 # SyncCollection Enhanced
 
-### Command-line utility to download an Internet Archive collection from [Archive.org](https://archive.org/) to your computer.
+### Command-line utility to download an archive collection from [Archive.org](https://archive.org/) to your computer.
 
 ------------------
 
 ## 👋 Introduction
 
-*SyncCollection Enhanced* started as a fork from [malfunct/SyncCollection](https://github.com/malfunct/SyncCollection).
-
-The author refused a pull request with enhancements because it goes against his original purpose for the tool, so I just made this stand-alone repository.
+*SyncCollection Enhanced* started as a fork from [malfunct/SyncCollection](https://github.com/malfunct/SyncCollection). The author refused a pull request with enhancements because it goes against his original purpose for the tool, so I just made this stand-alone repository.
 
 ## 📋 Features
 
@@ -50,9 +48,9 @@ All what the original program has plus:
 
 Download the latest release by clicking [here](https://github.com/ElektroStudios/SyncCollection-Enhanced/releases/latest).
 
-Command line:
+Command line usage:
 
-  SyncCollection.exe [[rowCount] collection]
+    SyncCollection.exe [[rowCount] collection]
  
   The default collection, if one is not provided on the command line, is apple_ii_library_4am and 
   represents the items shown at the url https://archive.org/details/apple_ii_library_4am and you would
