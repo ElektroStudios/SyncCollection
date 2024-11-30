@@ -38,7 +38,7 @@ Initially, I have no intention of adding additional features on my own, but you 
 
 ## 📋 Features
 
-All what the original program has in its version 1.11 plus:
+All what the original @malfunct's program has in its [version 1.11](https://github.com/malfunct/SyncCollection/releases/tag/v1.11) plus:
 
  - Download progress information.
 
