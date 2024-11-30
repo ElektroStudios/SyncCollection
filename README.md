@@ -32,7 +32,7 @@ games
 
 ## 👋 Introduction
 
-*SyncCollection Enhanced* started as a fork from [malfunct/SyncCollection](https://github.com/malfunct/SyncCollection). The author refused a pull request with visual enhancements because it goes against his original purpose for the tool, so I just made this stand-alone repository.
+*SyncCollection Enhanced* started as a fork from [malfunct/SyncCollection](https://github.com/malfunct/SyncCollection). The author refused a pull request with visual enhancements because it goes against his original purpose for the tool, so I just made this standalone repository.
 
 ## 📋 Features
 
